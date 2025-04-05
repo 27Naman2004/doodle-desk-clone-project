@@ -5,6 +5,7 @@ import Hero from '../components/Hero';
 import Introduction from '../components/Introduction';
 import Features from '../components/Features';
 import ProgramIntroduction from '../components/ProgramIntroduction';
+import Babysitters from '../components/Babysitters';
 import Footer from '../components/Footer';
 
 const Index = () => {
@@ -15,6 +16,7 @@ const Index = () => {
       <Introduction />
       <Features />
       <ProgramIntroduction />
+      <Babysitters />
       <Footer />
     </div>
   );
